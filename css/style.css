@@ -1,5 +1,8 @@
 /*CSS file for Bootstrap portfolio page*/
 
+body {
+	margin-top: 20px;
+}
 .teal {
 	background-color: #4aaaa5;
 	color: #ffffff;
